@@ -22,11 +22,6 @@ This repository provides the MATLAB and MUSYC code for the manuscript above.
 1.  Clone or download this repository to your local machine.
 2.  Open MATLAB.
 3.  Navigate to the repository folder: `ER-breast-cancer-evolutionary-double-bind`.
-4.  **Important**: Add the repository and its subfolders to your MATLAB path to ensure all scripts and helper functions are accessible. You can do this by running the following command in the MATLAB Command Window:
-    ```matlab
-    addpath(genpath(pwd));
-    savepath; % Optional: saves the path for future sessions
-    ```
 
 ### 2. Repository Organization
 
